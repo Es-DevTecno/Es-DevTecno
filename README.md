@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Es-DevTecno%2C+Welcome+to+my+profile" alt="Typing SVG" />
@@ -80,6 +79,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Es-DevTecno/Es-DevTecno/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
 <hr/>
 
 <div align="center">
@@ -100,6 +105,4 @@
   </a>
 
   <a href="https://discord.com/users/405414395011661854" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</div>
+    <img src="
